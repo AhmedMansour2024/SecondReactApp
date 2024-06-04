@@ -1,0 +1,18 @@
+.formik {
+    display: flex;
+    justify-content: center;
+}
+
+.user__form {
+    padding: 20px;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, .3);
+}

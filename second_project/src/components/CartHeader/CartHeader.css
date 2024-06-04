@@ -1,0 +1,16 @@
+.cart-header span {
+    font-size: 25px;
+    font-weight: 600;
+    background-color: crimson;
+    padding: 8px 15px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
+.cart-header span:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}

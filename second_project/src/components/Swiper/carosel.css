@@ -1,0 +1,27 @@
+.main-carosel .swiper-button-prev,
+.main-carosel .swiper-button-next {
+    background-color: rgb(0, 0, 0, .3);
+    width: 35px !important;
+    height: 35px !important;
+    border: 1px solid white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 0 20px;
+}
+
+.main-carosel .swiper-button-prev::after,
+.main-carosel .swiper-button-next::after {
+    font-size: 16px;
+    color: white;
+}
+
+
+
+.main-carosel {
+    height: 85vh !important;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}

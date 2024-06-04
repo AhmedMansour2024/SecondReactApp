@@ -1,0 +1,14 @@
+Nav {
+    background-color: #ccc !important;
+    padding: 15px 0;
+    height: 60px;
+}
+
+.nav__link.active {
+    border-bottom: 2px solid #222;
+}
+
+.navbar-logo {
+    width: 100px;
+    height: 40px;
+}
